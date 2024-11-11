@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>MINTOS의 코딩</title>
+  <p>MINTOS의 코딩</p>
 </head>
 <body>
 <a href="https://ibb.co/C1RFZ1b">코토리</a>
