@@ -1,1 +1,1 @@
-<img src="https://pin.it/OF6eUhDV4" alt="코토리">
+<img src="https://ibb.co/C1RFZ1b" alt="코토리">
