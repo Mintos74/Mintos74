@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+<img src="https://namu.wiki/w/%EB%AF%B8%EB%82%98%EB%AF%B8%20%EC%BD%94%ED%86%A0%EB%A6%AC/%EB%9F%AC%EB%B8%8C%EB%9D%BC%EC%9D%B4%EB%B8%8C!%20ALL%20STARS" alt="코토리">
