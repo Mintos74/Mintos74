@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <p>MINTOS의 코딩 프로필</p>
+  <p>하기싫네</p>
 </head>
 <body>
   </body>
